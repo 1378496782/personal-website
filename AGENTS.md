@@ -1,6 +1,6 @@
-# Personal Website — FreeZ 的小站
+# Personal Website — 拾光笔记
 
-FreeZ 的个人网站（博客）：复盘、方案、分享。基于 [Fuwari](https://github.com/saicaca/fuwari) 主题（Astro 5 + Svelte + Tailwind）。
+张富伟的个人网站「拾光笔记」：复盘、方案、分享。简介：把踩过的坑变成路标，把解决过的问题变成经验。基于 [Fuwari](https://github.com/saicaca/fuwari) 主题（Astro 5 + Svelte + Tailwind）。
 
 ## 常用命令
 
@@ -28,8 +28,8 @@ pnpm new-post # 新建文章脚手架
 ## 部署（已上线 2026-11-14）
 
 - GitHub：https://github.com/1378496782/personal-website（Public，main 分支，push 即自动部署）
-- Cloudflare Pages Git 集成，Node 22（仓库有 .node-version）
-- 线上地址：https://xjtuzfw.top 和 https://www.xjtuzfw.top（DNS 已迁 Cloudflare：macy/hugh.ns.cloudflare.com，SSL 由 CF 自动签发，火山引擎旧证书/旧 A 记录已废弃）
+- Cloudflare **Workers** Git 集成（面板配置：build `pnpm run build`、deploy `npx wrangler deploy`，nodejs22+pnpm9 自动识别；仓库无 wrangler 配置文件，设置在 CF 面板里）
+- 线上地址：https://xjtuzfw.top 和 https://www.xjtuzfw.top（DNS 已迁 Cloudflare：macy/hugh.ns.cloudflare.com，自定义域 + SSL 由 CF 自动签发；workers.dev 默认域名国内被墙属正常，不影响自定义域访问）
 - 发文流程：在 `src/content/posts/` 写 Markdown → git commit & push → 约 1~2 分钟自动上线
 
 ## 内容约定
