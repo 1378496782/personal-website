@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "FreeZ 的小站",
+	title: "拾光笔记",
 	subtitle: "复盘 · 方案 · 分享",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
@@ -45,8 +45,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar-freez.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "FreeZ",
-	bio: "服务端工程师 · AI 工程化实践者，在这里记录踩坑与思考",
+	name: "张富伟",
+	bio: "把踩过的坑变成路标，把解决过的问题变成经验",
 	links: [
 		{
 			name: "GitHub",
