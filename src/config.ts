@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar-freez.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "张富伟",
 	bio: "把踩过的坑变成路标，把解决过的问题变成经验",
 	links: [

@@ -17,7 +17,7 @@ pnpm new-post # 新建文章脚手架
 - `src/config.ts` — 站点配置：标题/副标题/作者/社交链接/导航
 - `src/content/posts/` — 博客文章（Markdown，frontmatter: title/published/description/tags/category/draft）
 - `src/content/spec/about.md` — 关于页内容
-- `src/assets/images/avatar-freez.png` — 侧栏头像
+- `src/assets/images/avatar.jpg` — 侧栏头像（狗狗照片，模糊背景垫边处理，主体 76% 保证圆形裁切安全）
 - `astro.config.mjs` — `site` 已配置为 https://xjtuzfw.top/
 
 ## 已知事项
