@@ -1,9 +1,37 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+Hi，我是 **FreeZ** 👋
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+服务端 / 全栈 / AI 应用开发工程师，目前在国际电商营销平台做服务端研发。这个小站是我的自留地：记录工作和生活中真实的踩坑复盘、可复用的解决方案，以及值得分享的一切。
+
+## 教育背景
+
+- **西安交通大学** · 软件工程 · 硕士（2022 – 2025）
+- **西安理工大学** · 计算机科学与技术 · 本科（2018 – 2022）
+
+## 在校荣誉
+
+- 西安交通大学**特等奖学金**、优秀研究生
+- 第十五届蓝桥杯 Java 研究生组**省二等奖**
+- 第十四届蓝桥杯 C++ 研究生组**省二等奖**
+- 优秀毕业生、创新成果一等奖
+
+## 我在做什么
+
+- **服务端研发**：Go 技术栈为主，专注复杂业务链路的设计、交付与一致性保障，喜欢把排障经验沉淀成工具和模板
+- **AI 工程化**：重度使用 Claude Code / Codex 等 AI 编码工具，实践 Agent 工作流、Prompt 与上下文工程、Skill 沉淀和 MCP 工具接入
+- **算法沉淀**：在 AcWing 持续输出数据结构、算法和编程相关分享，累计阅读量约 9.5 万
+
+## 这个网站写什么
+
+| 栏目 | 内容 |
+| --- | --- |
+| **复盘** | 工作和生活中遇到的真实问题：背景、过程、踩的坑、最后沉淀的经验 |
+| **方案** | 可复用的解决方案、工程实践和效率工具 |
+| **分享** | 好用的东西、值得读的内容、生活杂记 |
+
+## 联系我
+
+- GitHub：[@1378496782](https://github.com/1378496782)
+
+> 如果某篇文章帮到了你，欢迎告诉我，这会是我持续更新的最大动力。
