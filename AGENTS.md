@@ -25,9 +25,12 @@ pnpm new-post # 新建文章脚手架
 - **构建 bug 修复**：`src/styles/markdown.css` 头部有一行 `@import './main.css';`，是修 Fuwari 上游 issue #528/#766 的间歇性构建失败（`link` class does not exist）。升级主题时注意保留。
 - 站名「FreeZ 的小站」，作者署名 FreeZ。网站不放个人手机号/邮箱等敏感信息。
 
-## 部署（进行中）
+## 部署（已上线 2026-11-14）
 
-目标：GitHub 公开仓库 + Cloudflare Pages（Git 集成，push 自动部署）+ 自定义域名 `xjtuzfw.top`（火山引擎注册，备案已取消，只能走海外托管；域名 DNS 可迁 Cloudflare）。gh CLI 已装在 `~/.local/node/bin/gh`。
+- GitHub：https://github.com/1378496782/personal-website（Public，main 分支，push 即自动部署）
+- Cloudflare Pages Git 集成，Node 22（仓库有 .node-version）
+- 线上地址：https://xjtuzfw.top 和 https://www.xjtuzfw.top（DNS 已迁 Cloudflare：macy/hugh.ns.cloudflare.com，SSL 由 CF 自动签发，火山引擎旧证书/旧 A 记录已废弃）
+- 发文流程：在 `src/content/posts/` 写 Markdown → git commit & push → 约 1~2 分钟自动上线
 
 ## 内容约定
 
