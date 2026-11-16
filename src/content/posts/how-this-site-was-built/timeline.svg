@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-14T19:01:13.335193</dc:date>
+    <dc:date>2026-11-16T10:16:41.401691</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -32,42 +32,42 @@ z
    <g id="line2d_1">
     <path d="M 50.4 165.6 
 L 813.6 165.6 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_2">
     <path d="M 90 154.08 
-L 90 132.48 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 90 144 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_3">
     <path d="M 204 177.12 
-L 204 194.4 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 204 187.2 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_4">
     <path d="M 318 154.08 
-L 318 132.48 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 318 144 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_5">
     <path d="M 432 177.12 
-L 432 194.4 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 432 187.2 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_6">
     <path d="M 546 154.08 
-L 546 132.48 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 546 144 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_7">
     <path d="M 660 177.12 
-L 660 194.4 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 660 187.2 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="line2d_8">
     <path d="M 774 154.08 
-L 774 132.48 
-" clip-path="url(#pbe50839e70)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
+L 774 144 
+" clip-path="url(#p6fe9d6895a)" style="fill: none; stroke: #94a3b8; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <!-- 一天之内：从想法到上线 -->
@@ -606,11 +606,11 @@ C 80.982092 160.362635 79.92 162.926753 79.92 165.6
 C 79.92 168.273247 80.982092 170.837365 82.872364 172.727636 
 C 84.762635 174.617908 87.326753 175.68 90 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
     <!-- 定位收窄，先攒内容 -->
-    <g style="fill: #64748b" transform="translate(47.25 131.116406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(47.25 118.400562) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-5b9a" d="M 3507 4576 
 C 3386 4870 3226 5152 3046 5395 
@@ -1140,7 +1140,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-5bb9" x="799.999878"/>
     </g>
     <!-- 商用预期放平 -->
-    <g style="fill: #64748b" transform="translate(61.5 144.69725) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(61.5 131.981406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-5546" d="M 1043 4717 
 C 768 4717 582 4730 378 4755 
@@ -1575,7 +1575,7 @@ z
    </g>
    <g id="text_3">
     <!-- 想法与规划 -->
-    <g style="fill: #1e293b" transform="translate(58.75 69.449219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(58.75 88.169219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-4e0e" d="M 1837 4429 
 C 1907 5210 1907 5210 1933 5363 
@@ -1776,11 +1776,11 @@ C 194.982092 160.362635 193.92 162.926753 193.92 165.6
 C 193.92 168.273247 194.982092 170.837365 196.872364 172.727636 
 C 198.762635 174.617908 201.326753 175.68 204 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
     <!-- 调研对标 -->
-    <g style="fill: #1e293b" transform="translate(179 209.734219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(179 206.854219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-8c03" d="M 4262 3571 
 L 4634 3571 
@@ -2088,7 +2088,7 @@ z
    </g>
    <g id="text_5">
     <!-- 阮一峰模式 -->
-    <g style="fill: #64748b" transform="translate(180.25 231.916406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(180.25 227.596406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-962e" d="M 4416 3021 
 L 4416 83 
@@ -2426,7 +2426,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-5f0f" x="399.999939"/>
     </g>
     <!-- 中文独立博客生态 -->
-    <g style="fill: #64748b" transform="translate(166 245.49725) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(166 241.17725) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-4e2d" d="M 3360 4122 
 L 3360 4685 
@@ -2948,11 +2948,11 @@ C 308.982092 160.362635 307.92 162.926753 307.92 165.6
 C 307.92 168.273247 308.982092 170.837365 310.872364 172.727636 
 C 312.762635 174.617908 315.326753 175.68 318 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_6">
     <!-- Astro + Fuwari -->
-    <g style="fill: #64748b" transform="translate(283.377695 131.116406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(283.377695 118.400562) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-41" d="M 4710 38 
 C 4614 205 4531 390 4371 774 
@@ -3219,7 +3219,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-69" x="705.099854"/>
     </g>
     <!-- Cloudflare + 旧域名 -->
-    <g style="fill: #64748b" transform="translate(273.156289 144.69725) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(273.156289 131.981406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-43" d="M 4461 3667 
 C 4307 4064 4186 4256 3962 4474 
@@ -3517,7 +3517,7 @@ z
    </g>
    <g id="text_7">
     <!-- 技术选型 -->
-    <g style="fill: #1e293b" transform="translate(293 69.449219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(293 88.169219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-6280" d="M 4230 2925 
 L 4230 3968 
@@ -3828,11 +3828,11 @@ C 422.982092 160.362635 421.92 162.926753 421.92 165.6
 C 421.92 168.273247 422.982092 170.837365 424.872364 172.727636 
 C 426.762635 174.617908 429.326753 175.68 432 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_8">
     <!-- 搭站修坑 -->
-    <g style="fill: #1e293b" transform="translate(407 209.734219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(407 206.854219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-642d" d="M 5018 2483 
 C 5408 2221 5574 2125 5990 1920 
@@ -4166,7 +4166,7 @@ z
    </g>
    <g id="text_9">
     <!-- 15 分钟搭起骨架 -->
-    <g style="fill: #64748b" transform="translate(395.676602 231.916406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(395.676602 227.596406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-31" d="M 1030 4429 
 C 1216 4454 1382 4467 1587 4467 
@@ -4581,7 +4581,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-67b6" x="664.699905"/>
     </g>
     <!-- 顺手修了上游 bug -->
-    <g style="fill: #64748b" transform="translate(392.870391 246.60875) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(392.870391 242.28875) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-987a" d="M 4352 4736 
 C 4307 4538 4224 4288 4096 4013 
@@ -4903,11 +4903,11 @@ C 536.982092 160.362635 535.92 162.926753 535.92 165.6
 C 535.92 168.273247 536.982092 170.837365 538.872364 172.727636 
 C 540.762635 174.617908 543.326753 175.68 546 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
     <!-- 关于页 / 头像 -->
-    <g style="fill: #64748b" transform="translate(516.835 131.269297) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(516.835 118.400562) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-5173" d="M 5363 2029 
 C 5638 2029 5824 2016 6022 1990 
@@ -5186,7 +5186,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-50cf" x="513.999908"/>
     </g>
     <!-- 第一篇开站文 -->
-    <g style="fill: #64748b" transform="translate(517.5 144.850141) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(517.5 131.981406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-7b2c" d="M 3014 205 
 L 3014 -90 
@@ -5437,7 +5437,7 @@ z
    </g>
    <g id="text_11">
     <!-- 个性化 -->
-    <g style="fill: #1e293b" transform="translate(527.25 69.449219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(527.25 88.169219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-4e2a" d="M 3469 5338 
 L 3021 5504 
@@ -5588,11 +5588,11 @@ C 650.982092 160.362635 649.92 162.926753 649.92 165.6
 C 649.92 168.273247 650.982092 170.837365 652.872364 172.727636 
 C 654.762635 174.617908 657.326753 175.68 660 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_12">
     <!-- 部署绑定 -->
-    <g style="fill: #1e293b" transform="translate(635 209.734219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(635 206.854219) scale(0.125 -0.125)">
      <defs>
       <path id="HiraginoSansGB-W3-90e8" d="M 2272 4608 
 C 2189 4883 2099 5107 1946 5395 
@@ -5891,7 +5891,7 @@ z
    </g>
    <g id="text_13">
     <!-- GitHub 连 Workers -->
-    <g style="fill: #64748b" transform="translate(615.906641 231.916406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(615.906641 227.596406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-47" d="M 3878 2042 
 L 3878 755 
@@ -6102,7 +6102,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-73" x="874.599823"/>
     </g>
     <!-- DNS 迁移 Cloudflare -->
-    <g style="fill: #64748b" transform="translate(612.566797 245.49725) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(612.566797 241.17725) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-44" d="M 544 781 
 C 544 461 531 269 493 19 
@@ -6343,11 +6343,11 @@ C 764.982092 160.362635 763.92 162.926753 763.92 165.6
 C 763.92 168.273247 764.982092 170.837365 766.872364 172.727636 
 C 768.762635 174.617908 771.326753 175.68 774 175.68 
 z
-" clip-path="url(#pbe50839e70)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p6fe9d6895a)" style="fill: #eff6ff; stroke: #3b82f6; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_14">
     <!-- 双域名 HTTPS 全通 -->
-    <g style="fill: #64748b" transform="translate(730.902656 131.116406) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(730.902656 118.400562) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-53cc" d="M 3693 4890 
 C 3373 4890 3219 4896 3046 4922 
@@ -6593,7 +6593,7 @@ z
      <use xlink:href="#HiraginoSansGB-W3-901a" x="807.299881"/>
     </g>
     <!-- 成本 ¥0 -->
-    <g style="fill: #64748b" transform="translate(756.515547 144.69725) scale(0.095 -0.095)">
+    <g style="fill: #64748b" transform="translate(756.515547 131.981406) scale(0.095 -0.095)">
      <defs>
       <path id="HiraginoSansGB-W3-6210" d="M 5293 3923 
 C 5632 3923 5811 3917 6010 3891 
@@ -6777,7 +6777,7 @@ z
    </g>
    <g id="text_15">
     <!-- 上线 -->
-    <g style="fill: #1e293b" transform="translate(761.5 69.449219) scale(0.125 -0.125)">
+    <g style="fill: #1e293b" transform="translate(761.5 88.169219) scale(0.125 -0.125)">
      <use xlink:href="#HiraginoSansGB-W3-4e0a"/>
      <use xlink:href="#HiraginoSansGB-W3-7ebf" x="99.999985"/>
     </g>
@@ -6959,7 +6959,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pbe50839e70">
+  <clipPath id="p6fe9d6895a">
    <rect x="0" y="0" width="864" height="331.2"/>
   </clipPath>
  </defs>
